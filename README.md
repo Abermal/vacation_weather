@@ -4,4 +4,4 @@ The goal here was to pick the dates with:
 * the highest temperature
 * least precipitation
 
-Data was taken from https://www.wetterkontor.de/
+Data was taken from https://www.wetterkontor.de/ at Grainau, 82491
